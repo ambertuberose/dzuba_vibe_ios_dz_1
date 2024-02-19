@@ -1,8 +1,9 @@
-let FIO = "Дзюба Анна Александровна"
-var age: Int
-age = 21
-let city = "Сыктывкар"
-let university = "\"ЛЭТИ\""
-let direction = "\"Системный анализ и управление\""
+let firstName = "Анна"
+let secondName = "Дзюба"
+let patronymicName = "Александровна"
+let currentAge = 21
+let placeOfBirth = "Сыктывкар"
+let currentUniversity = "\"ЛЭТИ\""
+let directionOFStudy = "\"Системный анализ и управление\""
 
-print("Меня зовут \(FIO). \nМой возраст - \(age) год. \nМой родной город - \(city). \nЯ учусь в университете \(university) на направлении \(direction).")
+print("Меня зовут \(secondName) \(firstName) \(patronymicName). \nМой возраст - \(currentAge) год. \nМой родной город - \(placeOfBirth). \nЯ учусь в университете \(currentUniversity) на направлении \(directionOFStudy).")
