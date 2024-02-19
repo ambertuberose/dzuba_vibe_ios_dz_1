@@ -1,0 +1,8 @@
+let FIO = "Дзюба Анна Александровна"
+var age: Int
+age = 21
+let city = "Сыктывкар"
+let university = "\"ЛЭТИ\""
+let direction = "\"Системный анализ и управление\""
+
+print("Меня зовут \(FIO). \nМой возраст - \(age) год. \nМой родной город - \(city). \nЯ учусь в университете \(university) на направлении \(direction).")
